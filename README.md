@@ -1,15 +1,9 @@
 <h1 align="center">
-  🚀 Shanmugapriyan E
+  <b>SHANMUGAPRIYAN E</b>
 </h1>
 
-<h3 align="center">
-  Artificial Intelligence & Machine Learning Student
-</h3>
-
 <p align="center">
-  <em>
-    Transforming ideas into real-world technology solutions through AI, Software Development & IoT
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;IoT+Innovator;Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
 
