@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Web+Developer;IoT+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
+</p>
 # Hi 👋, I'm Shanmugapriyan
 
 ### 🚀 AIML Student | Developer | Innovator
@@ -50,9 +53,6 @@ I love turning innovative ideas into practical solutions through code, creativit
 
 📍 Bengaluru, India
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Web+Developer;IoT+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
-</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode" />
