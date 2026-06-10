@@ -58,3 +58,9 @@ I love turning innovative ideas into practical solutions through code, creativit
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode" />
 </p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shanmuga40xc-star&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuga40xc-star&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmuga40xc-star&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanmuga40xc-star&theme=tokyo-night)]()
+![](https://komarev.com/ghpvc/?username=shanmuga40xc-star&color=blueviolet)
