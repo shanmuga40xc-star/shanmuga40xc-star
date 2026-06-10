@@ -64,4 +64,6 @@ I love turning innovative ideas into practical solutions through code, creativit
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuga40xc-star&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmuga40xc-star&theme=tokyonight)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanmuga40xc-star&theme=tokyo-night)]()
-![](https://komarev.com/ghpvc/?username=shanmuga40xc-star&color=blueviolet)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</p>
