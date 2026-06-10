@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Web+Developer;IoT+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
-</p>
 <h1 align="center">
   🚀 Shanmugapriyan E
 </h1>
@@ -15,7 +12,6 @@
   </em>
 </p>
 
-### 🚀 AIML Student | Developer | Innovator
 
 I'm a Computer Science (AI & Machine Learning) student at Presidency University, Bengaluru, passionate about transforming ideas into impactful technology solutions.
 
