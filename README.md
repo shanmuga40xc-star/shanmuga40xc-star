@@ -65,5 +65,5 @@ I love turning innovative ideas into practical solutions through code, creativit
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmuga40xc-star&theme=tokyonight)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanmuga40xc-star&theme=tokyo-night)]()
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/shanmuga40xc-star/shanmuga40xc-star/output/pacman-contribution-graph.svg">
 </p>
