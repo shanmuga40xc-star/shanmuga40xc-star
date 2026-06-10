@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Web+Developer;IoT+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
 </p>
 
+<p align="center">
 ### Hi 👋, I'm Shanmugapriyan E
+</p>
 
 ### 🚀 AIML Student | Developer | Innovator
 
