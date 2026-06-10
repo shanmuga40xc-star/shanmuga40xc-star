@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Web+Developer;IoT+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
 </p>
 
-<p align="center">
-### Hi 👋, I'm Shanmugapriyan E
-</p>
+<h1 align="center">
+  Hi 👋, I'm <b>Shanmugapriyan E</b>
+</h1>
+
+<h3 align="center">
+  AI & Machine Learning Student | Full Stack Developer | IoT Enthusiast
+</h3>
 
 ### 🚀 AIML Student | Developer | Innovator
 
