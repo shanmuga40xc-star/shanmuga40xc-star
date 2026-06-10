@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm <b>Shanmugapriyan E</b>
+  <b>SHANMUGAPRIYAN E</b>
 </h1>
 
-<h3 align="center">
-  AI & Machine Learning Student | Full Stack Developer | IoT Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;IoT+Innovator;Problem+Solver+%7C+Tech+Enthusiast" />
+</p>
 
 ### 🚀 AIML Student | Developer | Innovator
 
